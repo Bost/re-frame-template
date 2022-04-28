@@ -81,7 +81,7 @@ lein new re-frame <app-name> +garden +re-com +routes +test +10x
 
 Refer to the [shadow-cljs Emacs / CIDER documentation](https://shadow-cljs.github.io/docs/UsersGuide.html#cider).
 
-The mentioned `dir-local.el` file is created by this template.
+The mentioned `.dir-locals.el` file is created by this template.
 
 ## Connect Calva from VS Code:
 
